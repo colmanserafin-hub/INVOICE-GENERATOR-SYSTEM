@@ -1,0 +1,10 @@
+{
+  "company": { "name": "Acme Corp", "address": "123 Business Rd, Suite 100" },
+  "customer": { "name": "John Doe", "email": "john.doe@example.com" },
+  "items": [
+    { "name": "Widget A", "quantity": 2, "price": 49.99 },
+    { "name": "Service B", "quantity": 1, "price": 150.00 }
+  ],
+  "tax_rate": 0.18,
+  "discount": 10.0
+}
