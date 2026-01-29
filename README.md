@@ -1,4 +1,4 @@
-                                                                                                                                                            # Invoice Generator MVP
+# Invoice Generator System
 
 A professional, production-ready invoice generator backend (Python) with multiple input methods, sequential numbering, and polished PDF/HTML output. Includes dual PDF generation paths (WeasyPrint + ReportLab fallback) for maximum platform compatibility.
 
